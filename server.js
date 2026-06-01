@@ -114,7 +114,7 @@ app.get('/login', (req, res) => {
     ${estilosCSS}
     <div id="contenedor-principal">
       <div class="card">
-        <h2>Iniciar Sesión</h2>
+        <h2>Iniciar Sesión tercer parcial</h2>
         <form id="form-login" class="form-group">
           <input type="text" name="email" placeholder="Correo electrónico" required />
           <input type="password" name="password" placeholder="Contraseña" required />
